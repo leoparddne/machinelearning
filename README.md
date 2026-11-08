@@ -1,7 +1,7 @@
-# 吴恩达机器学习课程学习笔记与作业实践
+# 吴恩达机器学习课程（中文翻译与练习）
 
 ## 项目简介
-本仓库为吴恩达机器学习（Andrew Ng's Machine Learning）课程的学习记录，涵盖课程笔记、数据科学核心组件（NumPy、Pandas、Matplotlib）的专项练习，以及课后作业。
+本仓库为吴恩达机器学习（Andrew Ng's Machine Learning）课程的学习记录，涵盖课程的中文翻译、课程笔记、数据科学核心组件（NumPy、Pandas、Matplotlib）的专项练习，以及课后作业。
 
 ## 目录结构与功能说明
 - **`.git`**：Git 版本控制目录，用于追踪代码与笔记的迭代历史。
